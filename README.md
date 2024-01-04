@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadmanjoy2&label=Profile%20views&color=0e75b6&style=flat" alt="sadmanjoy2" /> </p>
 
-- 💻 I’m currently learning : **Python Django**
+- 💻 I’m currently learning = **Machine learning**
 
-- 💬 Ask me : about **Problems**
+- 💬 Ask me about = **Problems**
 
-- 📩 How to reach me : **01sjofficial@gmail.com**
+- 📩 How to reach me = **01sjofficial@gmail.com**
 
-- 😂 Fun fact : HTML is the best programming language 
+- 😂 Fun fact = **HTML is the best programming language**
+
+- 🌟 God gifted talent = **Sharp sense of taste**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
