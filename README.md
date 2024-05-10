@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadmanjoy2&label=Profile%20views&color=0e75b6&style=flat" alt="sadmanjoy2" /> </p>
 
-- 💻 I’m currently learning = **Machine learning**
+- I_am = ['Bangladeshi' , 'Muslim' , 'Learner']
+
+- Love = {'Tech' , 'Problem_Solving', 'Martial_Arts' , 'Photography'}
 
 - 💬 Ask me about = **Problems**
 
@@ -13,7 +15,9 @@
 
 - 😂 Fun fact = **HTML is the best programming language**
 
-- 🌟 God gifted talent = **Sharp sense of taste**
+- 🌟 God_Gifted_Talent = ' Sharp sense of taste '
+
+- Wish_me = ' 06 December, 12:00 am '
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
